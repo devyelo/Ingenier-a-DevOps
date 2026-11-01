@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dropcl.msproducto.MsProductoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.27 s -- in com.dropcl.msproducto.MsProductoApplicationTests
