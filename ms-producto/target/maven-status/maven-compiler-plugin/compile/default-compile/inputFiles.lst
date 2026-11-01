@@ -1,0 +1,15 @@
+/app/src/main/java/com/dropcl/msproducto/MsProductoApplication.java
+/app/src/main/java/com/dropcl/msproducto/controller/ProductoController.java
+/app/src/main/java/com/dropcl/msproducto/dto/ActualizarProductoDTO.java
+/app/src/main/java/com/dropcl/msproducto/dto/CrearCategoriaDTO.java
+/app/src/main/java/com/dropcl/msproducto/dto/CrearProductoDTO.java
+/app/src/main/java/com/dropcl/msproducto/dto/CrearTallaDTO.java
+/app/src/main/java/com/dropcl/msproducto/exception/GlobalExceptionHandler.java
+/app/src/main/java/com/dropcl/msproducto/model/Categoria.java
+/app/src/main/java/com/dropcl/msproducto/model/Producto.java
+/app/src/main/java/com/dropcl/msproducto/model/Talla.java
+/app/src/main/java/com/dropcl/msproducto/repository/CategoriaRepository.java
+/app/src/main/java/com/dropcl/msproducto/repository/ProductoRepository.java
+/app/src/main/java/com/dropcl/msproducto/repository/TallaRepository.java
+/app/src/main/java/com/dropcl/msproducto/service/ProductoService.java
+/app/src/main/java/com/dropcl/msproducto/service/impl/ProductoServiceImpl.java
